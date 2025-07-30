@@ -1,0 +1,7 @@
+platform :ios, '15.2'
+
+target 'iosApp' do
+  use_frameworks!
+
+  pod 'Shared', path: '../shared/'
+end

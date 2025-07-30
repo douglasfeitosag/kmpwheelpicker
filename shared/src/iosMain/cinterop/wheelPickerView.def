@@ -1,0 +1,5 @@
+language      = Objective-C
+package       = dev.douglasfeitosa.kmpwheelpicker
+headers       = WheelPickerView.h
+headerFilter  = WheelPickerView.h
+compilerOpts  = -framework Foundation -framework UIKit
